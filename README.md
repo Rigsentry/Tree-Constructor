@@ -16,4 +16,7 @@ Input: ["(1,2)", "(3,2)", "(2,12)", "(5,2)"]
 Output: false
 ```
 
-Binnary tree: https://en.wikipedia.org/wiki/Binary_tree 
+Binnary tree: https://en.wikipedia.org/wiki/Binary_tree
+
+## How to push your code
+Clone the repo and create a new branch with your name and push it.
