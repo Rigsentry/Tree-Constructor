@@ -17,3 +17,6 @@ Output: false
 ```
 
 Binnary tree: https://en.wikipedia.org/wiki/Binary_tree 
+
+## How to push your code
+Clone the repo and create a new branch with your name and push it to the repo

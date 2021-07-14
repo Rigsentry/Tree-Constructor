@@ -1,0 +1,7 @@
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\Tree Construct\Tree-Constructor\Tree-Constructor\bin\Debug\Tree-Constructor.exe.config
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\Tree Construct\Tree-Constructor\Tree-Constructor\bin\Debug\Tree-Constructor.exe
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\Tree Construct\Tree-Constructor\Tree-Constructor\bin\Debug\Tree-Constructor.pdb
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\Tree Construct\Tree-Constructor\Tree-Constructor\obj\Debug\Tree-Constructor.csprojAssemblyReference.cache
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\Tree Construct\Tree-Constructor\Tree-Constructor\obj\Debug\Tree-Constructor.csproj.CoreCompileInputs.cache
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\Tree Construct\Tree-Constructor\Tree-Constructor\obj\Debug\Tree-Constructor.exe
+C:\Users\garciaperezym\OneDrive - National Oilwell Varco\work\2021\codechallenge\weeklycodechallenges\Tree Construct\Tree-Constructor\Tree-Constructor\obj\Debug\Tree-Constructor.pdb
