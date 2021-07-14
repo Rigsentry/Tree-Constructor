@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\williamsj3\\source\\repos\\TreeValidator\\TreeValidator\\TreeValidator.csproj",
-      "projectName": "TreeValidator",
-      "projectPath": "C:\\Users\\williamsj3\\source\\repos\\TreeValidator\\TreeValidator\\TreeValidator.csproj",
+      "projectUniqueName": "C:\\Users\\williamsj3\\Documents\\Tree-Constructor\\Tree-Constructor\\Tree-Constructor\\Tree-Constructor.csproj",
+      "projectName": "Tree-Constructor",
+      "projectPath": "C:\\Users\\williamsj3\\Documents\\Tree-Constructor\\Tree-Constructor\\Tree-Constructor\\Tree-Constructor.csproj",
       "packagesPath": "C:\\Users\\williamsj3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\williamsj3\\source\\repos\\TreeValidator\\TreeValidator\\obj\\",
+      "outputPath": "C:\\Users\\williamsj3\\Documents\\Tree-Constructor\\Tree-Constructor\\Tree-Constructor\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\williamsj3\\AppData\\Roaming\\NuGet\\NuGet.Config",

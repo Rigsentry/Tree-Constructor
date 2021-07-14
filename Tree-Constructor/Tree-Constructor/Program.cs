@@ -1,8 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 
-namespace StevenChallenge
+namespace Tree_Constructor
 {
     class Program
     {
@@ -20,7 +19,7 @@ namespace StevenChallenge
             int parentcount = 0;
             Dictionary<int, int> tracker = new Dictionary<int, int>();
             foreach (KeyValuePair<int, int> node in tree)
-            {               
+            {
                 if (tracker.ContainsValue(node.Value))
                 {
                     parentcount++;
@@ -34,5 +33,4 @@ namespace StevenChallenge
             return true;
         }
     }
-}
-
+}    
