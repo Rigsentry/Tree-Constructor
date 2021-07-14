@@ -1,0 +1,7 @@
+C:\Users\LagunasJ\source\repos\Tree-Constructor\Tree-Constructor\bin\Debug\Tree-Constructor.exe.config
+C:\Users\LagunasJ\source\repos\Tree-Constructor\Tree-Constructor\bin\Debug\Tree-Constructor.exe
+C:\Users\LagunasJ\source\repos\Tree-Constructor\Tree-Constructor\bin\Debug\Tree-Constructor.pdb
+C:\Users\LagunasJ\source\repos\Tree-Constructor\Tree-Constructor\obj\Debug\Tree-Constructor.csprojAssemblyReference.cache
+C:\Users\LagunasJ\source\repos\Tree-Constructor\Tree-Constructor\obj\Debug\Tree-Constructor.csproj.CoreCompileInputs.cache
+C:\Users\LagunasJ\source\repos\Tree-Constructor\Tree-Constructor\obj\Debug\Tree-Constructor.exe
+C:\Users\LagunasJ\source\repos\Tree-Constructor\Tree-Constructor\obj\Debug\Tree-Constructor.pdb
