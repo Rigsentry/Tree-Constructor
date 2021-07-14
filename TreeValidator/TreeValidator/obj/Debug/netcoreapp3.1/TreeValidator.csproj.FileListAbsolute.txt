@@ -1,0 +1,13 @@
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\bin\Debug\netcoreapp3.1\TreeValidator.exe
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\bin\Debug\netcoreapp3.1\TreeValidator.deps.json
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\bin\Debug\netcoreapp3.1\TreeValidator.runtimeconfig.json
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\bin\Debug\netcoreapp3.1\TreeValidator.runtimeconfig.dev.json
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\bin\Debug\netcoreapp3.1\TreeValidator.dll
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\bin\Debug\netcoreapp3.1\TreeValidator.pdb
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\obj\Debug\netcoreapp3.1\TreeValidator.csprojAssemblyReference.cache
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\obj\Debug\netcoreapp3.1\TreeValidator.AssemblyInfoInputs.cache
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\obj\Debug\netcoreapp3.1\TreeValidator.AssemblyInfo.cs
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\obj\Debug\netcoreapp3.1\TreeValidator.csproj.CoreCompileInputs.cache
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\obj\Debug\netcoreapp3.1\TreeValidator.dll
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\obj\Debug\netcoreapp3.1\TreeValidator.pdb
+C:\Users\williamsj3\source\repos\TreeValidator\TreeValidator\obj\Debug\netcoreapp3.1\TreeValidator.genruntimeconfig.cache
