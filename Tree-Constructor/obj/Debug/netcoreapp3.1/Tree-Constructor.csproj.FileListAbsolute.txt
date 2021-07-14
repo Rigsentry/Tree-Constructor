@@ -1,0 +1,13 @@
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\bin\Debug\netcoreapp3.1\Tree-Constructor.exe
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\bin\Debug\netcoreapp3.1\Tree-Constructor.deps.json
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\bin\Debug\netcoreapp3.1\Tree-Constructor.runtimeconfig.json
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\bin\Debug\netcoreapp3.1\Tree-Constructor.runtimeconfig.dev.json
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\bin\Debug\netcoreapp3.1\Tree-Constructor.dll
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\bin\Debug\netcoreapp3.1\Tree-Constructor.pdb
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\obj\Debug\netcoreapp3.1\Tree-Constructor.csprojAssemblyReference.cache
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\obj\Debug\netcoreapp3.1\Tree-Constructor.AssemblyInfoInputs.cache
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\obj\Debug\netcoreapp3.1\Tree-Constructor.AssemblyInfo.cs
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\obj\Debug\netcoreapp3.1\Tree-Constructor.csproj.CoreCompileInputs.cache
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\obj\Debug\netcoreapp3.1\Tree-Constructor.dll
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\obj\Debug\netcoreapp3.1\Tree-Constructor.pdb
+C:\Users\hernandezdesilviga\source\repos\Tree-Constructor\Tree-Constructor\obj\Debug\netcoreapp3.1\Tree-Constructor.genruntimeconfig.cache

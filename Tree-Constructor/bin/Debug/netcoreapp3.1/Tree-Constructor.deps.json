@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Tree-Constructor/1.0.0": {
+        "runtime": {
+          "Tree-Constructor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tree-Constructor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
